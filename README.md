@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Povindu. I'm a Information Technology Undergraduate of University of Moratuwa. 
+- Im Based in Matara, Sri Lanka.
+- I have worked with many Programming Languages such as Python,C and Java.
+- Im passionate about Learning and Working with new technologies.
