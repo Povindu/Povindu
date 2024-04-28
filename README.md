@@ -14,9 +14,6 @@ Quick Learner: I have a strong desire to learn and adapt to new technologies.
 Team Player: I work well in collaborative environments and value open communication.
 
 
-<h1>Projects </h1>
-Here are some projects I've worked on:
-
 
 
 <h3>Contact Me</h3>
