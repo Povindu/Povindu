@@ -3,10 +3,10 @@
 <h1> About Me </h1>
 I am passionate about exploring the world of technology and constantly learning new things. My diverse skill set encompasses various programming languages and technologies, including:
 <br>
-Programming Languages: Python, C, JavaScript, Java
-Web & Mobile Technologies: React, React Native, Node.js, Express.js, Typescript
-Database Technologies: Firebase, MongoDB, MYSQL, MSSQL
-Robotics & IoT: ESP, Arduino, Raspberry Pi
+Programming Languages: Python, C, JavaScript, Java <br>
+Web & Mobile Technologies: React, React Native, Node.js, Express.js, Typescript <br>
+Database Technologies: Firebase, MongoDB, MYSQL, MSSQL <br>
+Robotics & IoT: ESP, Arduino, Raspberry Pi <br>
 
 <h3>What Do I Bring to the Table </h3>
 Versatility: I am proficient in multiple programming languages and comfortable working across different platforms.
