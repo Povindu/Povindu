@@ -4,7 +4,7 @@
 I am passionate about exploring the world of technology and constantly learning new things. My diverse skill set encompasses various programming languages and technologies, including:
 <br><br>
 <b>Programming Languages:</b> Python, C, JavaScript, Java  <br>
-<b>Web & Mobile Technologies:</b> React, React Native, Node.js, Express.js, Typescript <br>
+<b>Web & Mobile Technologies:</b> React, React Native, Node.js, Express.js, Typescript, Tailwind, MongoDB <br>
 <b>Robotics & IoT:</b> ESP, Arduino, Raspberry Pi <br>
 <br>
 <br>
